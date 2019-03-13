@@ -53,7 +53,3 @@ Detailed statistics on every piece of hardware in your computer.
 ### [SSD-Z](http://aezay.dk/aezay/ssdz/) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 显示固态硬盘及其它硬盘的关联信息
-
-### ~~护眼宝~~ ![](../assets/china.png) ![](../assets/multi_platform.png)
-
-~~为屏幕添加蓝光过滤滤镜~~

@@ -4,12 +4,6 @@
 
 ---
 
-### [~~160WIFI~~](http://wifi.160.com/) ![](../assets/china.png)
-
-~~虚拟 WiFi 路由软件，整洁免费~~
-
-###### ⚠ 据报告有可疑行为
-
 ### Advanced SystemCare ![](../assets/earth-globe.png)
 
 ###### [官网](http://www.iobit.com/en/advancedsystemcarefree.php#)｜[下载页面](http://download.cnet.com/Advanced-SystemCare-Free/3001-2086_4-10407614.html?hasJs=n&part=dl-)
@@ -153,3 +147,9 @@ Windows 文件预览，类似于 macOS 但是更强大，可定制度更高
 ###### [官网](http://shark007.net/)｜[下载页面](http://shark007.net/forum/Thread-Setup-and-usage)
 
 显著增强 Windows Media Player
+
+### Anti Windows Update ![](../assets/open-source-icon.png)![](../assets/usb.png)
+
+[官网](https://zhuanlan.zhihu.com/p/33788671)｜[下载页面](https://github.com/szzhiyang/PerfectWindows/blob/master/Anti-Windows-Update/Anti-Windows-Update.md)
+
+GitHub开源软件，完美地防止 Windows 自动更新！
