@@ -99,3 +99,7 @@ Windows 全局手势
 ### [ZIKU!](http://ziku.olereo.com/) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](../assets/china.png) ![](../assets/usb.png)
 
 记录简单应用详情的数据库式的启动器
+
+### [Multrin](https://github.com/sentialx/multrin) [![](..\assets\open-source-icon.png "MIT@GitHub: https://github.com/sentialx/multrin")](https://github.com/Wox-launcher/Wox) ![](..\assets\earth-globe.png)
+
+Organize multiple apps in tabs! 聚合不同软件的多标签页窗口！
