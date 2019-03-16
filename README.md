@@ -10,11 +10,15 @@
 <img src="https://img.shields.io/github/issues/AmazingApps/Amazing-Windows-Apps.svg" title="有建议你就提，我虚心接受，改不改，你猜呢？(●ˇ∀ˇ●)"/>
 </a>
 </p>
+---
+
 ### 一、语言
 
 [简体中文]()
 
 暂不支持多语言
+
+---
 
 ### 二、说明
 
@@ -83,6 +87,8 @@ Windows 绝赞应用[GitBook 项目地址](https://www.gitbook.com/book/amazing-
 ![](assets/32.png) 32位应用程序
 
 ![](assets/64.png) 64位应用程序
+
+---
 
 ### 四、目录
 
