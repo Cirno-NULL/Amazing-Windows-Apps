@@ -92,14 +92,13 @@ Windows 全局手势
 
 免费专业的托盘
 
-### [Wox](http://www.getwox.com/) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Wox-launcher/Wox")](https://github.com/Wox-launcher/Wox) ![](../assets/earth-globe.png)
+### [Wox](<http://www.wox.one/>) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Wox-launcher/Wox")](https://github.com/Wox-launcher/Wox) ![](../assets/earth-globe.png)
 
 高效启动器
 
-### [ZIKU!](http://ziku.olereo.com/) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](../assets/china.png) ![](../assets/usb.png)
+### [Multrin](https://github.com/sentialx/multrin) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/sentialx/multrin")](https://github.com/Wox-launcher/Wox) ![](../assets/earth-globe.png)
 
-记录简单应用详情的数据库式的启动器
-
-### [Multrin](https://github.com/sentialx/multrin) [![](..\assets\open-source-icon.png "MIT@GitHub: https://github.com/sentialx/multrin")](https://github.com/Wox-launcher/Wox) ![](..\assets\earth-globe.png)
+[官网](https://github.com/sentialx/multrin)｜[下载页面](<https://github.com/sentialx/multrin/releases>)
 
 Organize multiple apps in tabs! 聚合不同软件的多标签页窗口！
+

@@ -10,7 +10,13 @@
 <img src="https://img.shields.io/github/issues/AmazingApps/Amazing-Windows-Apps.svg" title="有建议你就提，我虚心接受，改不改，你猜呢？(●ˇ∀ˇ●)"/>
 </a>
 </p>
-### 一、说明
+### 一、语言
+
+[简体中文]()
+
+暂不支持多语言
+
+### 二、说明
 
 **自用，整体根据 GitHub 项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome) 增改**
 
@@ -30,9 +36,11 @@ Windows 绝赞应用[GitBook 项目地址](https://www.gitbook.com/book/amazing-
 
 本项目作为我**个人自用**记录，会收录所有**体验良好**或**同类中较优秀**的应用：
 
+```
 1. 修改版或破解版，例如无广告版，体验良好即可收录
 2. 限制国内不能使用的不会收录，其它地区限制不影响应用收录
 3. 收录32位以及64位应用，尽可能做好标注是否兼容32位或64位系统
+```
 
 很多软件严格来说存在多个合理分类，此处以该软件主要设计目的为准；极个别应用兼容性以具体说明为准
 
@@ -40,7 +48,7 @@ Windows 绝赞应用[GitBook 项目地址](https://www.gitbook.com/book/amazing-
 
 ---
 
-### 二、标识说明
+### 三、标识说明
 
 ![](assets/money.png) 需要购买，不包括需要付费升级的免费软件。
 
@@ -76,7 +84,7 @@ Windows 绝赞应用[GitBook 项目地址](https://www.gitbook.com/book/amazing-
 
 ![](assets/64.png) 64位应用程序
 
-### 三、目录
+### 四、目录
 
 - [序章](zh-CN/README.md)
 - [良心国产](zh-CN/china-apps.md)
@@ -107,5 +115,3 @@ Windows 绝赞应用[GitBook 项目地址](https://www.gitbook.com/book/amazing-
 - [视频工具](zh-CN/video.md)
 - [极客玩物](zh-CN/geeks.md)
 - [流氓名单](zh-CN/blacklist.md)
-- 鸣谢列表
-
