@@ -102,3 +102,13 @@ Windows 全局手势
 
 Organize multiple apps in tabs! 聚合不同软件的多标签页窗口！
 
+### [天若OCR](<https://www.52pojie.cn/thread-692917-1-1.html>)
+
+基于免费OCR在线接口（集合百度、腾讯、有道、搜狗）编写的OCR文字识别软件
+
+### [Quicker](<https://getquicker.net/>) ![](../assets/china.png)
+
+[官网](<https://getquicker.net/>) | [下载页面](<https://getquicker.net/Download>)
+
+更快， 更方便， 更简单。为常用操作建立捷径，让效率触手可及!
+

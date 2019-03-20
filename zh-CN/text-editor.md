@@ -71,3 +71,9 @@ Notepad2的分支之一，可替换系统 notepad 的轻量级开源编辑器，
 ### [Yu Writer](https://ivarptr.github.io/yu-writer.site/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 Markdown 文本编辑器，可将网页复制的内容自动转换为 Markdown 格式
+
+### [Mark Text](<https://marktext.github.io/website/>) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Microsoft/vscode")](https://github.com/marktext/marktext/blob/master/LICENSE) ![](../assets/earth-globe.png)
+
+###### [官网](<https://marktext.github.io/website/>)｜[下载页面](<https://github.com/marktext/marktext/releases>)
+
+一个简单而优雅的开源 Markdown 编辑器，专注于速度和可用性

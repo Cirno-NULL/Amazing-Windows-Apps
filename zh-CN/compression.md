@@ -17,3 +17,10 @@
 ### [PeaZip](http://www.peazip.org/) [![](../assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/giorgiotani/PeaZip")](https://github.com/giorgiotani/PeaZip) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 功能全面的 WinRAR 优秀替代，基于开源程序内核，支持180多种格式
+
+### [WinRAR](<http://www.winrar.com.cn/>) ![](../assets/earth-globe.png)
+
+[官网](<http://www.winrar.com.cn/>)｜[下载页面](<http://www.winrar.com.cn/download.htm>)
+
+一个强大的压缩文件管理工具
+
