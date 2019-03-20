@@ -56,3 +56,9 @@ P2P 文件同步
 ### [WebTorrent Desktop](https://webtorrent.io/desktop/) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/webtorrent/webtorrent-desktop")](https://github.com/webtorrent/webtorrent-desktop) ![](../assets/earth-globe.png)
 
 实时播放种子中的媒体流
+
+### [冰点文库下载器](<http://www.bingdian001.com/>) ![](../assets/china.png) ![](../assets/ad.png)
+
+###### ⚠️ **包含广告，务必注意！**
+
+无需注册和登录自由下载百度、豆丁、丁香、MBALib、道客巴巴、Book118等文库文档。下载的文档最终生成高清晰度的pdf格式文档

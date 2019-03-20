@@ -14,7 +14,7 @@
 
 ### 一、语言
 
-[简体中文]()
+[简体中文](LANGS.md)
 
 暂不支持多语言
 
@@ -62,7 +62,17 @@ Windows 绝赞应用[GitBook 项目地址](https://www.gitbook.com/book/amazing-
 
 ![](assets/multi_platform.png) 具有跨平台版本
 
+![](/assets/ad.png) 包含广告，收录包含广告的软件说明它确实有值得一试的地方
+
 ![](assets/earth-globe.png) 多语言支持：至少支持世界上几种使用较多较广的语言
+
+![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/command-line.png) **只能**使用命令行操作的应用
+
+![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/windows-store.png) 可从 Windows 应用商店安装的应用
+
+![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/32.png) 32位应用程序
+
+![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/64.png) 64位应用程序
 
 * 仅支持单一或者少数语种的以国旗或地区旗帜标注
 
@@ -79,14 +89,6 @@ Windows 绝赞应用[GitBook 项目地址](https://www.gitbook.com/book/amazing-
   ![](assets/russia.png) 俄罗斯
 
   ![](assets/spain.png) 西班牙
-
-![](assets/command-line.png) **只能**使用命令行操作的应用
-
-![](assets/windows-store.png) 可从 Windows 应用商店安装的应用
-
-![](assets/32.png) 32位应用程序
-
-![](assets/64.png) 64位应用程序
 
 ---
 
