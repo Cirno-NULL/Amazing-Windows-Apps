@@ -77,3 +77,4 @@ Markdown 文本编辑器，可将网页复制的内容自动转换为 Markdown �
 ###### [官网](<https://marktext.github.io/website/>)｜[下载页面](<https://github.com/marktext/marktext/releases>)
 
 一个简单而优雅的开源 Markdown 编辑器，专注于速度和可用性
+

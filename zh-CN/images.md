@@ -42,7 +42,7 @@ Open source image editor.
 
 ###### [官网](https://inkscape.org/en/)｜[下载页面](https://inkscape.org/en/download/windows/)
 
-基于 vector 的图像设计软件
+基于 vector 的开源矢量图编辑工具
 
 ### Ken Burns Slideshow ![](../assets/open-source-icon.png "NO LICENSE@GitHub/Sourceforge") ![](../assets/earth-globe.png)
 
