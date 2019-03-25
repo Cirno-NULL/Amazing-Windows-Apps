@@ -4,6 +4,10 @@
 
 ---
 
+### [深蓝词库转换](<https://github.com/studyzy/imewlconverter>) ![](../assets/open-source-icon.png)![](../assets/china.png)
+
+开源免费输入法词库转换工具
+
 ### [Clipber](http://clipber.com/clipber/) 快帖 ![](../assets/china.png) ![](../assets/multi_platform.png)
 
 跨平台系统剪贴板同步工具
