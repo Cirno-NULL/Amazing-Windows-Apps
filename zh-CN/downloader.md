@@ -62,3 +62,8 @@ P2P 文件同步
 ###### ⚠️ **包含广告，务必注意！**
 
 无需注册和登录自由下载百度、豆丁、丁香、MBALib、道客巴巴、Book118等文库文档。下载的文档最终生成高清晰度的pdf格式文档
+
+### [UUP dump downloader](<https://gitlab.com/uup-dump/downloader>) ![](../assets/open-source-icon.png)![](../assets/united-states.png)
+
+无限制下载Windows系统镜像（含测试版）
+
