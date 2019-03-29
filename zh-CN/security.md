@@ -1,4 +1,4 @@
-## 隐私安全
+## !隐私安全
 
 增加隐私保护与系统安全性
 
@@ -57,6 +57,12 @@
 ###### [官网](http://keepass.info/)｜[下载页面](http://keepass.info/download.html)
 
 开源密码管理器
+
+### [KeeWeb](<https://keeweb.info/>) ![](../assets/open-source-icon.png)![](../assets/earth-globe.png)![](../assets/multi_platform.png)
+
+[官网](<https://keeweb.info/>) | [下载页面](<https://keeweb.info/>)
+
+与KeePass兼容的免费跨平台密码管理工具
 
 ### LastPass ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
