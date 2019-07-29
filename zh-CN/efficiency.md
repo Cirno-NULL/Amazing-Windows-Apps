@@ -112,3 +112,8 @@ Organize multiple apps in tabs! 聚合不同软件的多标签页窗口！
 
 更快， 更方便， 更简单。为常用操作建立捷径，让效率触手可及!
 
+### uTools
+
+[官网](https://u.tools/) | [下载页面](https://u.tools/download.html)
+
+uTools是一个极简、插件化、跨平台的现代桌面软件。通过自由选配丰富的插件，打造你得心应手的工具集合。
