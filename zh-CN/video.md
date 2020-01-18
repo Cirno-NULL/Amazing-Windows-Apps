@@ -95,3 +95,9 @@ UI 优美、性能优秀的视频编码工具
 ### [VLC](http://www.videolan.org/vlc/index.html) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/videolan/vlc")](https://github.com/videolan/vlc) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议
+
+### [Captura](https://mathewsachin.github.io/Captura/) ![](D:\mxy\Documents\GitHub\Amazing-Windows-Apps\assets\open-source-icon.png)
+
+[官网](https://mathewsachin.github.io/Captura/) | [开源地址](https://github.com/MathewSachin/Captura)
+
+开源录屏工具，可录制屏幕，摄像头，音频，光标，鼠标单击和键盘点击
