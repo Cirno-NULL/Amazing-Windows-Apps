@@ -1,8 +1,14 @@
-开发者工具
+## 开发者工具
 
 为开发者而生的设计
 
 ---
+
+### Git [![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/multi_platform.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/command-line.png)
+
+###### [官网](https://git-scm.com/)｜[下载页面](https://git-scm.com/downloads)
+
+Git 是一个分布式版本控制软件，最初由林纳斯·托瓦兹（Linus Torvalds）创作，于2005年以GPL发布。最初目的是为更好地管理Linux内核开发而设计。应注意的是，这与GNU Interactive Tools（一个类似Norton Commander界面的文件管理器）有所不同
 
 ### [ChocolateyGUI](https://chocolatey.github.io/ChocolateyGUI) [![](../assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/chocolatey/ChocolateyGUI")](https://github.com/chocolatey/ChocolateyGUI) ![](../assets/united-states.png)
 
@@ -90,3 +96,13 @@ Windows 上的 UNIX 软件包和生成平台
 [官网](<https://graphviz.gitlab.io/>) | [下载页面](<https://graphviz.gitlab.io/download/>)
 
 开源图形可视化软件
+
+### [cmder](http://cmder.net/) [![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/open-source-icon.png "MIT@GitHub: https://github.com/cmderdev/cmder")](https://github.com/cmderdev/cmder) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/united-states.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/usb.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/command-line.png)
+
+Windows 下的便携式控制台模拟器
+
+📌cmder 包含了 ConEmu 和其他实用的工具 (如 Clink)
+
+### [ConEmu](https://conemu.github.io/) [![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/open-source-icon.png "BSD@GitHub: https://github.com/Maximus5/ConEmu")](https://github.com/Maximus5/ConEmu) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/united-states.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/china.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/russia.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/usb.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/command-line.png)
+
+可自定义的 Windows 终端模拟器, 支持多标签, 分隔, quake风格及更多功能

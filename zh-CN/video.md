@@ -4,6 +4,18 @@
 
 ---
 
+### FFmpeg [![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/open-source-icon.png "LGPL/GPL@ffmpeg.org: https://ffmpeg.org/download.html")](https://ffmpeg.org/download.html) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/usb.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/multi_platform.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/command-line.png)
+
+###### [官网](https://ffmpeg.org/)｜[下载页面](http://ffmpeg.zeranoe.com/builds/)
+
+跨平台，支持几乎所有格式的视频记录、转码、推流解决方案。
+
+### youtube-dl [![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/open-source-icon.png "The Unlicense@GitHub: https://github.com/rg3/youtube-dl/")](https://github.com/rg3/youtube-dl/) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/united-states.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/usb.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/command-line.png)
+
+###### [官网](http://rg3.github.io/youtube-dl/)｜[下载页面](http://rg3.github.io/youtube-dl/download.html)
+
+从 YouTube 和许多其他网站下载视频的命令行工具
+
 ### [5KPlayer](https://www.5kplayer.com/) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
 
 支持 Airplay、广播电台与一些视频站点下载功能的通用多媒体播放器

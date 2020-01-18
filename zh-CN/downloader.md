@@ -4,6 +4,10 @@
 
 ---
 
+### [aria2](https://aria2.github.io/) [![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/aria2/aria2")](https://github.com/aria2/aria2) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/united-states.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/usb.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/multi_platform.png) ![](D:/mxy/Documents/GitHub/Amazing-Windows-Apps/assets/command-line.png)
+
+轻量级多协议支持、多镜像、跨平台下载工具，使用命令行操作。支持 HTTP/HTTPS、FTP、SFTP、BT 与磁链
+
 ### [EagleGet](http://www.eagleget.com/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
