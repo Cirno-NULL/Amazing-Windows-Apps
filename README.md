@@ -1,5 +1,4 @@
 <h1 align="center">Windows 绝赞应用</h1>
-
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="这build status什么的你不用知道啦╮(╯▽╰)╭" />
 <img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-308-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" />
@@ -96,7 +95,8 @@ Windows 绝赞应用[GitBook 项目地址](https://www.gitbook.com/book/amazing-
 
 - [序章](zh-CN/README.md)
 - [良心国产](zh-CN/china-apps.md)
-- [音频文件](zh-CN/audio.md)
+- [音频工具](zh-CN/audio.md)
+- [视频工具](zh-CN/video.md)
 - [压缩处理](zh-CN/compression.md)
 - [美化工具](zh-CN/customization.md)
 - [硬件相关](zh-CN/hardwares.md)
@@ -120,6 +120,5 @@ Windows 绝赞应用[GitBook 项目地址](https://www.gitbook.com/book/amazing-
   - [电子书库](zh-CN/ebooks.md)
   - [文件处理](zh-CN/files.md)
   - [游戏相关](zh-CN/games.md)
-- [视频工具](zh-CN/video.md)
 - [极客玩物](zh-CN/geeks.md)
 - [流氓名单](zh-CN/blacklist.md)
