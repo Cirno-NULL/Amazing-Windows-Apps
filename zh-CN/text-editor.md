@@ -78,3 +78,8 @@ Markdown 文本编辑器，可将网页复制的内容自动转换为 Markdown �
 
 一个简单而优雅的开源 Markdown 编辑器，专注于速度和可用性
 
+### [Notepad3](https://github.com/rizonesoft/Notepad3) ![](D:\mxy\Documents\GitHub\Amazing-Windows-Apps\assets\open-source-icon.png)![](D:\mxy\Documents\GitHub\Amazing-Windows-Apps\assets\earth-globe.png)
+
+###### [开源地址](https://github.com/rizonesoft/Notepad3)
+
+Notepad++的绝佳替代品。Notepad3是基于Scintilla的快速轻量级文本编辑器，具有语法高亮功能。内存占用少，功能强大，足以处理大多数编程工作。
