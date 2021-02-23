@@ -104,6 +104,15 @@ Windows 下免费翻译工具
 
 无需使用本身软件就了解软件是否有更新可用
 
+### ~~Touchpad Blocker~~ ![](../assets/united-states.png)	
+
+###### [~~官网~~](http://touchpad-blocker.com/)~~｜~~[~~下载页面~~](http://touchpad-blocker.com/download/)	
+
+~~打字时防止因触摸板造成的光标跳动~~	
+
+###### ⚠ 长期无更新但无明显缺陷	
+
+
 ### [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 屏幕局部放大

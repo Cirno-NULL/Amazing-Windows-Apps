@@ -4,6 +4,13 @@
 
 ---
 
+### [~~160WIFI~~](http://wifi.160.com/) ![](../assets/china.png)	
+
+~~虚拟 WiFi 路由软件，整洁免费~~	
+
+###### ⚠ 据报告有可疑行为	
+
+
 ### Advanced SystemCare ![](../assets/earth-globe.png)
 
 ###### [官网](http://www.iobit.com/en/advancedsystemcarefree.php#)｜[下载页面](http://download.cnet.com/Advanced-SystemCare-Free/3001-2086_4-10407614.html?hasJs=n&part=dl-)
